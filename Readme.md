@@ -36,9 +36,13 @@ To analyze Super Store's historical sales data to understand patterns, identify 
 3. Promote digital payments with cashback/incentives.
 4. Invest in high-demand products like Phones, Chairs, and Office Supplies.
 
-### 🖼️ Dashboard Preview
-*(Upload your dashboard image to GitHub and replace this text/link with your actual image path)*
-![Super Store Sales Dashboard](path-to-your-uploaded-image.png)
+### 🖼️ Dashboard Preview / Link
+**Live Dashboard Link:** [Click here to view the Super Store Sales Dashboard](https://app.powerbi.com/groups/me/reports/d664391c-5b92-4949-a198-87f1ac528cee/8e0f819884cea28a1690?experience=power-bi)
+
+**Dashboard Preview:**
+<br>
+<img width="1095" height="621" alt="Super Store Sales Dashboard Preview" src="https://github.com/user-attachments/assets/bcf24f39-1a92-4880-b6f1-94e9b7be91e0" />
+
 
 ---
 
